@@ -1,48 +1,46 @@
-body{
-  margin:0;
-  background:#000;
-  color:#fff;
-  font-family:Arial;
-  text-align:center;
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Doramas VIP</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-.hero{
-  background:linear-gradient(#ff2e88,#000);
-  padding:60px 20px;
-}
+<section class="hero">
+  <h1>MINISSÉRIES VICIANTES ❤️</h1>
+  <p>Romance, CEO, vingança e muito mais!</p>
+  <a href="#" class="btn">QUERO ACESSO AGORA</a>
+</section>
 
-.hero h1{
-  font-size:28px;
-}
+<section class="banner">
+  <img src="FF2F812B-236B-44DB-9FA5-B83E275B4BB7.png">
+</section>
 
-.btn{
-  display:inline-block;
-  margin-top:15px;
-  background:#ff2e88;
-  padding:15px 25px;
-  border-radius:10px;
-  color:#fff;
-  text-decoration:none;
-  font-weight:bold;
-}
+<section class="grid">
+  <img src="05487B0E-8EC1-4567-808A-306A93E1310E.png">
+  <img src="08320234-AB1C-4A55-9047-83F107D49304.png">
+  <img src="1589126B-9781-487E-8F1A-345195B72EEE.png">
+  <img src="18A401E4-79D4-4FC8-82F0-96FD6C98934D.png">
+</section>
 
-.banner img{
-  width:100%;
-}
+<section class="cta">
+  <h2>Acesso completo por apenas R$ 19,90</h2>
+  <a href="#" class="btn">🔥 ENTRAR NO CLUBE VIP</a>
+</section>
 
-.grid{
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:10px;
-  padding:15px;
-}
+<section class="grid">
+  <img src="458BB07E-38FA-4410-913C-D0D6B8B5B828.png">
+  <img src="62AAD302-7DDB-45C5-9675-07940B801FBE.png">
+  <img src="7CA5CBFD-BBCC-4A7C-AB40-DB0A65CD8115.png">
+  <img src="B505C4F3-B53B-46C7-8E57-80D2F83599F3.png">
+</section>
 
-.grid img{
-  width:100%;
-  border-radius:10px;
-}
+<section class="cta">
+  <h2>Últimas vagas por R$ 19,90</h2>
+  <a href="#" class="btn">💖 QUERO GARANTIR AGORA</a>
+</section>
 
-.cta{
-  padding:30px 20px;
-  color:#00ff99;
-}
+</body>
+</html>
